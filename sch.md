@@ -74,6 +74,16 @@ https://mai.moscow/pages/viewpage.action?pageId=14156150
 **Материалы:** https://www.youtube.com/playlist?list=PLk4h7dmY2eYFEuGx1mabR4Eo2RFklU_Us
 
 
+### Математические основы и приложения нейронных сетей
+
+**Время:** 18:00 -- 19:30
+
+**Преподаватель:** Турдаков Денис Юрьевич
+
+**Материалы:** https://mlcourse.at.ispras.ru
+
+
+
 # Четверг
 
 ### Вероятностное тематическое моделирование
@@ -88,8 +98,34 @@ https://mai.moscow/pages/viewpage.action?pageId=14156150
 
 **Материалы:** https://www.youtube.com/c/MachineLearningPhystech/featured
 
+
+### Применение нейронных сетей для обработки текстов
+
+**Время:** 14:30 –- 16:00
+
+**Преподаватель:** Арефьев Николай Викторович
+
+**Контакт:** Дискорд
+
+**Трансляция:**  Дискорд
+
+**Материалы:** Дискорд
+
 # Пятница
 
+###Информация по спецкурсу ПЗАД.
+ 
+**Лекции курса выложены в ютуб-канале:**
+https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h
+ 
+**Если Вы хотите проходить курс, то надо зайти в классрум
+(с факультетских gse-гугл-аккаунтов)**
+https://classroom.google.com/c/Mzg4NDIwNDI3NTAz?cjc=ybmtgrk
+ 
+**Также зайти в телеграм-группу:**
+https://t.me/joinchat/sYUehgBSLjMyMTUy
+
+https://github.com/Dyakonov/PZAD
 
 
 # Суббота
@@ -97,11 +133,5 @@ https://mai.moscow/pages/viewpage.action?pageId=14156150
 
 Глубинное обучение, Д.Кропотов
 
- Прикладные задачи анализа данных,  Дьяконов А.Г. https://github.com/Dyakonov/PZAD
- 
- 
- 5) Применение нейронных сетей для обработки текстов, Арефьев Н. 
- 
-6) Математические основы и приложения нейронных сетей, Турдаков Д. https://mlcourse.at.ispras.ru
 
-7) + вольный слушатель у Бориса Иомдина в ВШЭ, курс лингвистики
+Борис Иомдин (ВШЭ), курс лингвистики https://www.youtube.com/watch?v=G_mF36OaH2w
